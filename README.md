@@ -25,7 +25,7 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 
 ## Instalación
 1. Clona este repositorio: `git clone https://github.com/ManuCaporaso/reactjs-utn`
-2. Navega al directorio del proyecto: `cd reactjs-utn-main`
+2. Navega al directorio del proyecto: `cd reactjs-utn`
 3. Instala las dependencias: `npm install`
 4. Instala Bootstrap y React Bootstrap: `npm install bootstrap react-bootstrap`
 
