@@ -15,7 +15,8 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 
 ## Capturas de Pantalla
 ![Captura 1](https://i.postimg.cc/ZR4p0MZk/1.png)
-!(https://drive.google.com/file/d/1539n6_iAsyf-epxL9jodFb7IbBbjTlGj/view?usp=sharing)
+![Captura 2](https://i.postimg.cc/k4s8SvX2/2.png)
+
 
 
 ## Tecnologías Utilizadas
