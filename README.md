@@ -1,5 +1,5 @@
 
-# TaskList - React App
+# TaskList - Reactjs - Manuel Caporaso
 
 
 
@@ -14,8 +14,8 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 - Interfaz amigable con Bootstrap para un diseño atractivo y responsivo.
 
 ## Capturas de Pantalla
-![Captura de Pantalla 1](https://drive.google.com/file/d/12QNCbg_sRfqms7NlQBsOtu8DGrzpR_eA/view?usp=sharing)
-![Captura de Pantalla 2](https://drive.google.com/file/d/1539n6_iAsyf-epxL9jodFb7IbBbjTlGj/view?usp=sharing)
+![Captura de Pantalla 1](https://drive.google.com/file/d/12QNCbg_sRfqms7NlQBsOtu8DGrzpR)
+![Captura de Pantalla 2](https://drive.google.com/file/d/1539n6_iAsyf-epxL9jodFb7IbBbjTlGj)
 
 
 ## Tecnologías Utilizadas
@@ -23,7 +23,7 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 - CSS Bootstrap
 
 ## Instalación
-1. Clona este repositorio: `git clone https://github.com/Nicofontanini/Integrador-tasklist`
+1. Clona este repositorio: `git clone https://github.com/ManuCaporaso/reactjs-utn`
 2. Navega al directorio del proyecto: `cd Integrador-tasklist`
 3. Instala las dependencias: `npm install`
 4. Instala Bootstrap y React Bootstrap: `npm install bootstrap react-bootstrap`
