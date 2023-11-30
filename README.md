@@ -34,7 +34,7 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 2. Abre tu navegador y visita `http://localhost:3000`
 
 ## Despliegue en Netlify
-Este proyecto está desplegado en Netlify. Puedes acceder a la versión en vivo [aquí](https://tasklist-reactapp.netlify.app/)
+Este proyecto está desplegado en Netlify. Puedes acceder a la versión en vivo [aquí](https://reactjs-utn-caporaso.netlify.app/)
 
 
 
