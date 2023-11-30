@@ -14,7 +14,7 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 - Interfaz amigable con Bootstrap para un diseño atractivo y responsivo.
 
 ## Capturas de Pantalla
-![Paleta](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/paleta.png.png)
+![Captura 1](https://i.postimg.cc/ZR4p0MZk/1.png)
 !(https://drive.google.com/file/d/1539n6_iAsyf-epxL9jodFb7IbBbjTlGj/view?usp=sharing)
 
 
