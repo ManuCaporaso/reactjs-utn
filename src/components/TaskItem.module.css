@@ -1,0 +1,33 @@
+.botoncompletar{
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(255, 253, 253);
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.botoncompletar:hover{
+    background-color: rgb(138, 249, 210);
+    cursor: pointer;
+}
+
+.botoneliminar{
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(255, 253, 253);
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.botoneliminar:hover{
+    background-color: rgb(249, 156, 138);
+    cursor: pointer;
+}
+
+li{
+    margin-top: 10px;
+}

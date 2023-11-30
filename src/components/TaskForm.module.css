@@ -1,0 +1,127 @@
+.input {
+    width: 400px;
+    height: 40px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    background-color: white;
+}
+
+.boton {
+    height: 40px;
+    margin-left: 15px;
+    border-radius: 5px;
+    background-color: rgb(255, 253, 253);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.boton:hover {
+    background-color: rgb(138, 152, 249);
+    cursor: pointer;
+}
+
+.select {
+    border-radius: 5px;
+    height: 35px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 5px;
+    background-color: rgb(255, 253, 253);
+}
+
+.select:hover {
+    background-color: rgb(138, 152, 249);
+    cursor: pointer;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    color: rgb(255, 253, 253);
+}
+
+@media only screen and (max-width: 750px) {
+    .input {
+        width: 100%;
+        /* Utiliza el ancho completo en dispositivos pequeños */
+        height: 40px;
+        margin: 15px 0;
+        /* Ajusta el margen para dispositivos pequeños */
+        padding: 10px;
+        /* Reduce el relleno para dispositivos pequeños */
+        border-radius: 5px;
+        box-sizing: border-box;
+        font-weight: 400;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 10px;
+        /* Ajusta el tamaño de la fuente para dispositivos pequeños */
+        background-color: white;
+    }
+
+    .boton {
+        width: 100%;
+        /* Utiliza el ancho completo en dispositivos pequeños */
+        height: 40px;
+        margin: 15px 0;
+        /* Ajusta el margen para dispositivos pequeños */
+        border-radius: 5px;
+        background-color: rgb(255, 253, 253);
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 10px;
+    }
+
+    .boton:hover {
+        background-color: rgb(138, 152, 249);
+        cursor: pointer;
+    }
+
+    .select {
+        width: 100%;
+        /* Utiliza el ancho completo en dispositivos pequeños */
+        border-radius: 5px;
+        height: 35px;
+        font-size: 16px;
+        /* Ajusta el tamaño de la fuente para dispositivos pequeños */
+        font-family: 'Josefin Sans', sans-serif;
+        margin: 5px 0;
+        /* Ajusta el margen para dispositivos pequeños */
+        background-color: rgb(255, 253, 253);
+        margin: 10px 0;
+        /* Ajusta el margen para dispositivos pequeños */
+    }
+
+    .select:hover {
+        background-color: rgb(138, 152, 249);
+        cursor: pointer;
+    }
+
+    .form {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    h4 {
+        color: rgb(255, 253, 253);
+    }
+
+    @media only screen and (max-width: 350px) {
+
+        .input,
+        .boton,
+        .select {
+            margin: 10px 0;
+            /* Ajusta el margen para dispositivos pequeños */
+        }
+    }
+}
