@@ -14,8 +14,8 @@ Este proyecto es una aplicación web de lista de tareas desarrollada con React. 
 - Interfaz amigable con Bootstrap para un diseño atractivo y responsivo.
 
 ## Capturas de Pantalla
-[Captura de Pantalla 1](https://drive.google.com/file/d/12QNCbg_sRfqms7NlQBsOtu8DGrzpR_eA/view?usp=sharing)
-[Captura de Pantalla 2](https://drive.google.com/file/d/1539n6_iAsyf-epxL9jodFb7IbBbjTlGj)
+![Captura de Pantalla 1](https://drive.google.com/file/d/12QNCbg_sRfqms7NlQBsOtu8DGrzpR_eA/view?usp=sharing)
+![Captura de Pantalla 2](https://drive.google.com/file/d/1539n6_iAsyf-epxL9jodFb7IbBbjTlGj/view?usp=sharing)
 
 
 ## Tecnologías Utilizadas
