@@ -5,9 +5,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   background-image: url('./assets/bg-desktop-light.jpg');
-  background-repeat: no-repeat;
+  object-fit: cover;
   background-color: hsl(0, 0%, 98%);
 
+}
+
+p{
+  font-size: 20px;
 }
 
 code {
